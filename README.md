@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌟 I'm Jean
+- 🌱 I’m currently learning Python3
+- 📫 How to reach me: [twitter](https://twitter.com/dreamjean720)
+
+
 <!--
 **dreamjean/dreamjean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
