@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- FOLLOWER-LIST:START -->
+
+[![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamjean&show_icons=true&theme=midnight-purple&bg_color=45,f9d423,ff4e50)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- FOLLOWER-LIST:END -->
