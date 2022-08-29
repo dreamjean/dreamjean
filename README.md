@@ -7,7 +7,7 @@
 
 <div style="display:flex flex-direction:row justify-content:space-between">
   <img src="https://github-readme-stats.vercel.app/api?username=dreamjean&show_icons=true&theme=midnight-purple&text_color=4DFFFC&bg_color=45,69EACB,EACCF8,6654F1&border_color=transparent&hide_border=true&hide_title=true" width=410 />
-  <img src="https://count.getloli.com/get/@:name" alt=":name" width=400 align="right" />
+  <img src="https://count.getloli.com/get/@:name" alt=":name" width=410 align="right" />
 </div>
 
 ## 📫 How to reach me:
