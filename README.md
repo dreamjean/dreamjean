@@ -7,9 +7,15 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dreamjean&show_icons=true&theme=midnight-purple&bg_color=45,f9d423,ff4e50&hide_title=true" />
 
+
 - 🌟 I'm Jean
-- 🌱 I’m currently learning Python3
 - 📫 How to reach me: [twitter](https://twitter.com/dreamjean720)
+
+
+
+<img src="https://count.getloli.com/get/@:name" alt=":name" align="left" />
+
+
 
 <!-- FOLLOWER-LIST:END -->
 
