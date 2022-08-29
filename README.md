@@ -5,7 +5,7 @@
 
 # ❣🪐 Welcome to My Github Profile 🪐❣
 
-<img src="https://github-readme-stats.vercel.app/api?username=dreamjean&show_icons=true&theme=midnight-purple&bg_color=45,f9d423,ff4e50&border-color=transparent&hide_title=true" align="right" width=410 />
+<img src="https://github-readme-stats.vercel.app/api?username=dreamjean&show_icons=true&theme=midnight-purple&text_color=4DFFFC&bg_color=45,69EACB,EACCF8,6654F1&border_color=transparent&hide_border=true&hide_title=true" align="right" width=410 />
 
 
 - 🌟 I'm Jean
