@@ -13,7 +13,7 @@
 
 
 
-<img src="https://count.getloli.com/get/@:name" alt=":name" align="left" width=400 />
+<img src="https://count.getloli.com/get/@:name" alt=":name" align="left" width=380 />
 
 
 
