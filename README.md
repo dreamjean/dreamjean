@@ -10,7 +10,7 @@
   <img src="https://count.getloli.com/get/@:name" alt=":name" width=410 align="right" />
 </div>
 
-## 📫 How to reach me:
+## 📫 How to reach me
 
 <a href="https://twitter.com/dreamjean720">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" style="vertical-align:top margin:6px 4px">
