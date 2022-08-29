@@ -6,8 +6,8 @@
 # ❣🪐 Welcome to My Github Profile 🪐❣
 
 <div style="display:flex flex-direction:row justify-content:space-between">
-  <img src="https://github-readme-stats.vercel.app/api?username=dreamjean&show_icons=true&theme=midnight-purple&text_color=4DFFFC&bg_color=45,69EACB,EACCF8,6654F1&border_color=transparent&hide_border=true&hide_title=true" style="width:410 margin-right:30" />
-  <img src="https://count.getloli.com/get/@:name" alt=":name" style="width:420"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dreamjean&show_icons=true&theme=midnight-purple&text_color=4DFFFC&bg_color=45,69EACB,EACCF8,6654F1&border_color=transparent&hide_border=true&hide_title=true" width=410 />
+  <img src="https://count.getloli.com/get/@:name" alt=":name" width=400  />
 </div>
 
 ## 📫 How to reach me:
@@ -15,11 +15,6 @@
 <a href="https://twitter.com/dreamjean720">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" style="vertical-align:top margin:6px 4px">
 </a>
-
-
-
-
-
 
 
 <!-- FOLLOWER-LIST:END -->
