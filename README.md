@@ -2,8 +2,8 @@
 
 
 <!-- FOLLOWER-LIST:START -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&pause=1000&color=9999FF&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%AA%90+Welcome+to+My+Github+Profile+%F0%9F%AA%90" alt="Typing SVG" /></a>
 
-# ❣🪐 Welcome to My Github Profile 🪐❣
 
 <div style="display:flex flex-direction:row justify-content:space-between">
   <img src="https://github-readme-stats.vercel.app/api?username=dreamjean&show_icons=true&theme=midnight-purple&text_color=4DFFFC&bg_color=45,69EACB,EACCF8,6654F1&border_color=transparent&hide_border=true&hide_title=true" width=410 />
