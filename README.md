@@ -1,8 +1,9 @@
-<img src="https://user-images.githubusercontent.com/58740404/186409339-81930979-fca8-479b-b8e0-58ff4d9d9710.jpg" />
-
+![dream girl](https://user-images.githubusercontent.com/58740404/187339191-ec984f37-0930-4000-84cb-c383fc4247c1.gif)
+<img src="https://user-images.githubusercontent.com/58740404/187338173-68e60e23-e610-457e-a4fa-35e708376cf3.gif" />
 
 <!-- FOLLOWER-LIST:START -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&pause=1000&color=9999FF&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%AA%90+Welcome+to+My+Github+Profile+%F0%9F%AA%90" alt="Typing SVG" /></a>
+
 
 
 <div style="display:flex flex-direction:row justify-content:space-between">
@@ -35,5 +36,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
 
 
